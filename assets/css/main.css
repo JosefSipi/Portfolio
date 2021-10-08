@@ -1683,3 +1683,37 @@ div.center-image{
 	align-items: center;
 	justify-content: center;
 }
+
+/* Intro for Pininit */
+
+.project-class{
+	border-left: 1px white solid;
+	border-top: 1px white solid;
+	padding-left: 12px;
+	padding-top: 12px;
+
+
+}
+
+div.project-class a h4:hover {
+	text-decoration: underline;
+}
+
+div.project-links{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+div.project-links a{
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	margin-left: 4vw;
+}
+
+ul.list-for-project{
+	padding-left: 7%;
+}
+/* Intro for Pininit */
