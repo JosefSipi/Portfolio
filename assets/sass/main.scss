@@ -1,3 +1,26 @@
+.profile-img{
+	height: inherit;
+	
+}
+
+.around-img-div{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+
+	height: inherit;
+    width: inherit;
+    border: 4px transparent solid;
+    overflow: hidden;
+    border-radius: 100%;
+}
+
+.center-image{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
@@ -48,3 +71,5 @@
 	@import 'layout/header';
 	@import 'layout/main';
 	@import 'layout/footer';
+
+	

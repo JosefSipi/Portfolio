@@ -1661,12 +1661,12 @@ input, select, textarea {
 		}
 
 
-.profile-img{
+img.profile-img{
 	height: inherit;
 	
 }
 
-.around-img-div{
+div.around-img-div{
 	display: flex;
     justify-content: center;
     align-items: center;
@@ -1678,7 +1678,7 @@ input, select, textarea {
     border-radius: 100%;
 }
 
-.center-image{
+div.center-image{
 	display: flex;
 	align-items: center;
 	justify-content: center;
