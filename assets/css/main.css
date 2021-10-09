@@ -1716,4 +1716,21 @@ div.project-links a{
 ul.list-for-project{
 	padding-left: 7%;
 }
+
+.icon_img{
+	height: 50px;
+	width: auto;
+	padding: 5px;
+}
+
+.icon-div{
+	width: fit-content;
+	background-color: #8fa2b1;
+	padding: 1vw;
+	padding-left: 2vw;
+	padding-right: 2vw;
+	border-radius: 4px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
 /* Intro for Pininit */
