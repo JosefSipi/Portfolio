@@ -1733,4 +1733,34 @@ ul.list-for-project{
 	margin-top: 15px;
 	margin-bottom: 15px;
 }
+
+.resume-btn{
+	display: block;
+    min-width: 7.5rem;
+    height: 2.75rem;
+    line-height: 2.75rem;
+    padding: 0 1.25rem 0 1.45rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    font-size: 0.8rem;
+    border-bottom: 0;
+    border: solid 1px white;
+    border-radius: 4px;
+    max-width: 144px;
+}
+
+.outer-resume-btn{
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-bottom: 2vh;
+}
+
+.resume-btn:hover{
+	text-decoration: none;
+	border-bottom: 1px solid white;
+	background-color: rgba(255, 255, 255, 0.075);
+	cursor: pointer;
+}
 /* Intro for Pininit */
