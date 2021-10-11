@@ -1766,6 +1766,7 @@ ul.list-for-project{
 
 .icon_splash{
 	height: 36px;
+	width: 36px;
     padding: 5px;
 	border-bottom: none;
 	display: flex;
@@ -1786,5 +1787,65 @@ ul.list-for-project{
     align-items: center;
     justify-content: center;
     padding-bottom: 1vh;
+    padding-top: 1.5vh;
+}
+.around-img-div-contact{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 100%;
+	width: 60px;
+	height: 60px;
+	overflow: hidden;
+}
+
+.two_up{
+	height: 70px;
+	width: 70px;
+	border-radius: 100%;
+	border: 1px solid white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 20px;
+}
+
+.profile-img-contact{
+	height: inherit;
+
+}
+.the-list{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.skills-size{
+	height: 140px;
+    padding: 24px;
+}
+
+.icon-div-skills{
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #ffffff5c;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.hover-div-contact:hover{
+	border-radius: 100%;
+    border: 1px white solid;
+    padding: 1px;
+	background-color: rgba(255, 255, 255, 0.068);
+}
+
+.hover-div-contact{
+	border-radius: 100%;
+    border: 1px rgba(255, 255, 255, 0.323) solid;
+    padding: 1px;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 /* Intro for Pininit */
