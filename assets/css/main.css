@@ -1763,4 +1763,28 @@ ul.list-for-project{
 	background-color: rgba(255, 255, 255, 0.075);
 	cursor: pointer;
 }
+
+.icon_splash{
+	height: 36px;
+    padding: 5px;
+	border-bottom: none;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon_splash img.github{
+	height: 28px;
+}
+
+.icon_splash img.linkedIn{
+	height: 32px;
+}
+
+.holder-links{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 1vh;
+}
 /* Intro for Pininit */
