@@ -1704,6 +1704,9 @@ div.project-links{
 	justify-content: flex-start;
 	align-items: center;
 }
+div.project-links h3{
+	font-size: 2rem;
+}
 
 div.project-links a{
 	display: flex;
@@ -1746,7 +1749,7 @@ ul.list-for-project{
     border-bottom: 0;
     border: solid 1px white;
     border-radius: 4px;
-    max-width: 144px;
+    max-width: 167px;
 }
 
 .outer-resume-btn{
